@@ -71,7 +71,6 @@ Disease diagnosis is the most positively affected for the following factors:
 <img width=800 src="https://github.com/Zayd1602/FRT-Project-using-PowerBI/blob/main/Overall-visual.gif">
 </div>
 
-<br>**Demo Video URL:** [https://youtu.be/QpFf__Gq4xQ](https://youtu.be/QpFf__Gq4xQ)</br>
 
 ## About the dataset
 
@@ -136,5 +135,4 @@ Thallium testing is a method where the radioactive element thallium (Tl) is intr
  - Dataset factors explanation – [https://www.kaggle.com/onatto/predicting-heart-disease-a-detailed-guide](https://www.kaggle.com/onatto/predicting-heart-disease-a-detailed-guide)
 (Kaggle)
 
- - Vector art - [https://www.freepik.com/vectors/people](https://www.freepik.com/vectors/people)
-(People vector created by katemangostar - www.freepik.com)
+
